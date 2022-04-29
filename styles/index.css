@@ -31,8 +31,7 @@ canvas{
 
 #text {
     position: absolute;
-    top: 0;
-    right: 50px;
+    z-index: 1;
     font-size: 25px;
     color: #fff;
     background-color: #111;
