@@ -1,0 +1,11 @@
+CACHE MANIFEST
+# last update 2017-03-25b
+# these belong to the CACHE block
+index.html
+massive-file-renamer.css
+massive-file-renamer.js
+massive-file-renamer.png
+
+# force these files to be loaded in network
+NETWORK:
+*
