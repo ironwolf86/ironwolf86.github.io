@@ -30,11 +30,11 @@ canvas{
 }
 
 #text {
-    height: 80%;
-    width: 80%;
+    height: 100%;
+    width: 100%;
     position: fixed;
     z-index: 1;
-    top: 10%;
+    top: 0;
     left: 300px;
     font-size: 25px;
     color: #fff;
