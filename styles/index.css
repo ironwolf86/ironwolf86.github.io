@@ -38,6 +38,7 @@ canvas{
     left: 300px;
     font-size: 25px;
     color: #fff;
+    padding: 32px;
     background-color: #111;
     opacity: .80;
 }
