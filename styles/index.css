@@ -32,13 +32,11 @@ canvas{
 #text {
     position: absolute;
     top: 0;
-    right: 30px;
+    right: 50px;
     font-size: 25px;
     color: #fff;
     background-color: #111;
     opacity: .80;
-    margin: 30px; 
-    padding: 15px;
 }
 
 .sideNav {
