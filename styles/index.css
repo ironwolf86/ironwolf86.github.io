@@ -30,6 +30,8 @@ canvas{
 }
 
 #text {
+    height: 80%;
+    width: 80%;
     font-size: 25px;
     color: #fff;
     background-color: #111;
