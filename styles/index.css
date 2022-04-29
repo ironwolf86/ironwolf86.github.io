@@ -34,8 +34,8 @@ canvas{
     width: 80%;
     position: fixed;
     z-index: 1;
-    top: 0;
-    right: 0;
+    top: 10%;
+    right: 10%;
     font-size: 25px;
     color: #fff;
     background-color: #111;
