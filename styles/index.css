@@ -36,6 +36,7 @@ canvas{
     z-index: 1;
     top: 10%;
     right: 5%;
+    margin-left: 250px;
     font-size: 25px;
     color: #fff;
     background-color: #111;
