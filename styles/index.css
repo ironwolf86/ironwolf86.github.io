@@ -33,6 +33,8 @@ canvas{
     height: 80%;
     width: 80%;
     position: absolute;
+    top: 15px;
+    left: 250px;
     z-index: 1;
     font-size: 25px;
     color: #fff;
