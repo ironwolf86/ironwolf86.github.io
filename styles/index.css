@@ -35,7 +35,8 @@ canvas{
     position: fixed;
     z-index: 1;
     top: 5%;
-    left: 300px;
+    margin-left: auto;
+    margin-right: auto;
     font-size: 18px;
     color: #fff;
     padding: 32px;
@@ -63,7 +64,7 @@ canvas{
     font-size: 25px;
     color: #fff;
     display: block;
-    transition: 0.3s
+    transition: 0.3s;
     opacity: 1;
 }
 
