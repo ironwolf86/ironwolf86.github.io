@@ -30,6 +30,8 @@ canvas{
 }
 
 #text {
+    height: 80%;
+    width: 80%;
     position: absolute;
     z-index: 1;
     font-size: 25px;
