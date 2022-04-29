@@ -35,6 +35,7 @@ canvas{
     position: fixed;
     z-index: 1;
     top: 5%;
+    right: 5%;
     margin-left: auto;
     margin-right: auto;
     font-size: 18px;
