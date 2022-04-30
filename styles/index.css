@@ -36,19 +36,18 @@ canvas{
     z-index: 1;
     bottom: 0;
     right: 0;
-    
+    border: 3px solid #73AD21;
     **/
     height: 100%;
     width: auto;
     position: absolute;
     z-index: 1;
     padding-left: 150px;
-    margin-right: 150px;
+    margin-right: -150px;
     font-size: 18px;
     color: #fff;
     background-color: #111;    
     opacity: .80;
-    border: 3px solid #73AD21;
 }
 
 .sideNav {
