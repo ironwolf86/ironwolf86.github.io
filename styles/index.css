@@ -40,7 +40,7 @@ canvas{
     bottom: 0;
     right: 0;
     border: 3px solid #73AD21;
-    padding-left: 150px;   
+
    
    
     **/
@@ -48,7 +48,7 @@ canvas{
     width: 100%;
     position: absolute;
     z-index: 1;
-    margin-right: -150px;
+    padding-left: 150px;
     font-size: 18px;
     color: #fff;
     background-color: #111;    
