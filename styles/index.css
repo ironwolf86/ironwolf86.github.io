@@ -39,7 +39,7 @@ canvas{
     border: 3px solid #73AD21;
     **/
     height: 100%;
-    width: auto;
+    width: 100%;
     position: absolute;
     z-index: 1;
     padding-left: 150px;
