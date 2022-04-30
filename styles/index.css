@@ -30,7 +30,7 @@ canvas{
 }
 
 #text {
-    height: 95%;
+    height: 94%;
     width: 97%;
     position: fixed;
     z-index: 1;
@@ -39,7 +39,7 @@ canvas{
     margin: auto;
     font-size: 18px;
     color: #fff;
-    padding: 32px 32px 32px 50px;
+    padding: 32px 32px 32px 65px;
     background-color: #111;
     border: 3px solid #73AD21;
     opacity: .80;
