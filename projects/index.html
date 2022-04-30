@@ -5,10 +5,24 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
    <title>Projects</title>
 <link rel="stylesheet" type="text/css" href="../styles/index.css">
+<script type="text/javascript" src="../scripts/onErr.js"></script>
+<script type="text/javascript" src="../scripts/matrix.js"></script>
+<script type="text/javascript" src="../scripts/helpers.js"></script>   
 </head>
 <body>
+   <canvas id="canvas"></canvas>
+   
+   <div id="sideNav" class="sideNav">
+      <a href="javascript:void(0)" class="closeBtn" onclick="closeNav()">×</a>
+      <a href="projects/">Projects</a>
+      <a href="bin/massive-file-renamer-master/index.html">File Renamer</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+      <a href="javascript:void(0)" onclick="settingsDialog()"><img id="gearIcon" src="images/computer-1293125_640.png" alt="Settings"></a>
+   </div>
+   
    <div id="main">
-    
+      <span id="navIcon" onclick="openNav()">☰</span> 
    </div>
    <div id="text">
       <a href="elden-ring/index.html">Elden Ring</a>
