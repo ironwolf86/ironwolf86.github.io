@@ -33,9 +33,6 @@ canvas{
 }
 
 #text {
-    /** 
-    border: 3px solid #73AD21;
-    **/
     height: 100%;
     width: 100%;
     position: absolute;
@@ -44,7 +41,7 @@ canvas{
     font-size: 18px;
     color: #fff;
     background-color: #111;    
-    opacity: .87;
+    opacity: .80;
 }
 
 .sideNav {
@@ -58,7 +55,7 @@ canvas{
     transition: 0.5s;
     padding-top: 60px;
     background-color: #111;
-    opacity: .70;
+    opacity: .65;
 }
 
 .sideNav a {
