@@ -44,7 +44,7 @@ canvas{
     font-size: 18px;
     color: #fff;
     background-color: #111;    
-    opacity: .80;
+    opacity: .75;
 }
 
 .sideNav {
@@ -58,7 +58,7 @@ canvas{
     transition: 0.5s;
     padding-top: 60px;
     background-color: #111;
-    opacity: .80;
+    opacity: .85;
 }
 
 .sideNav a {
