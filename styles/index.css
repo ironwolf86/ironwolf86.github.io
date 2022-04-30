@@ -33,22 +33,14 @@ canvas{
 }
 
 #text {
-    /** height: 94%;
-    width: 93%;
-    position: fixed;
-    z-index: 1;
-    bottom: 0;
-    right: 0;
+    /** 
     border: 3px solid #73AD21;
-
-   
-   
     **/
     height: 100%;
     width: 100%;
     position: absolute;
     z-index: 1;
-    padding-left: 150px;
+    padding: 32px 32px 32px 150px;
     font-size: 18px;
     color: #fff;
     background-color: #111;    
